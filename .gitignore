@@ -1,0 +1,5 @@
+.vscode
+.env
+/venv
+__pycache__
+/project_person/settings.py
